@@ -1,0 +1,13 @@
+#firstParagraph{
+    color: aqua;
+}
+#secondParagraph{
+    color: red;
+
+}
+.header{
+    width: 200px;
+    height: 320px;
+    border: 1px solid #000;
+    background-color: beige;
+}
